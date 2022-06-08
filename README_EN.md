@@ -19,7 +19,8 @@ Main Menu Screen
 
 The above images were all taken in game. As you can see to achieve such a style we have heavily relied on simple geometric figures and light color tones that work well together.
 These two factors we hope satisfy visually the gamer playing our game. We studied similar games in the market in terms of gameplay to better understand what direction 
-we are movin to with this project. After studying multiple games we had two big inspirations: 99 Problems and Geometry Dash.
+we were moving to with this project. After analyzing multiple games we had two big inspirations: 99 Problems and Geometry Dash.
+
 ![image](https://user-images.githubusercontent.com/106030110/172676775-36a5bd4a-5936-4009-8fdd-c34082d91c32.png) ![image](https://user-images.githubusercontent.com/106030110/172676798-1c5ed1c9-ec82-4686-b8d7-b7b8daeeb1de.png)
 
 In total we have worked a little under 2 months on this project meeting both physically and virtually. 
