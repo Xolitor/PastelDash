@@ -15,7 +15,7 @@ L'ecran d'acceuil du jeu
 ![Screenshot (48)](https://user-images.githubusercontent.com/106030110/172060967-9ea7cbcb-c0b7-4426-853c-483392901315.png)
 ![Screenshot (49)](https://user-images.githubusercontent.com/106030110/172060968-cd6cc56f-1f63-4d61-b861-3b09264498c1.png)
 
-Les images ont été prises en jeu, comme vous pouvez le voir nous avons misé sur les formes géométriques et des couleurs douces pour satisfaire visuellement le joueur. Nous avons étudié des jeux similaires en terme de jouabilité pour voir vers quelle direction nous allions-nous diriger. Ainsi, nos inspirations principales ont été 99 Problems et Geometry Dash.
+Les images ont été prises en jeu, comme vous pouvez le voir nous avons misé sur les formes géométriques et des couleurs douces pour satisfaire visuellement le joueur. Nous avons étudié des jeux similaires en terme de jouabilité pour voir vers quelle direction nous allions-nous diriger. Ainsi, nos inspirations principales ont été 99 Problems (pour l'apparence et l'esthetique general du jeu) et Geometry Dash (pour le "gameplay", la jouabilité).
 
 ![image](https://user-images.githubusercontent.com/106030110/172676775-36a5bd4a-5936-4009-8fdd-c34082d91c32.png) ![image](https://user-images.githubusercontent.com/106030110/172676798-1c5ed1c9-ec82-4686-b8d7-b7b8daeeb1de.png)
 
