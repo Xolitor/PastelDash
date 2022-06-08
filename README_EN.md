@@ -4,7 +4,7 @@ Here is my most recent project. It's named Pastel Dash and its a relaxing side s
 One of the particularities of the project is that the terrain and colors are generated randomly by the computer. It was coded using Unity.
 We've learned a lot with this project, it has furthered our knowledge of Unity as a game engine but also allowed us to better understand generation (like terrains for instance) using programs and not manual generation.
 
-This was a group project with two other students (so 3 couting me) all from Valrose University in Nice. I was mainly in charge of the project and took responsibility for the progress in development.
+This was a group project with two other students (so 3 couting me) all from Valrose University in Nice. I was mainly in charge of the project and took responsibility for the development.
 To achieve that we've used GitHub as it's very efficient to work on the same project remotely. We've also used Discord for group calls when we couldn't see each other.
 
 Before going any further [here](README.md) is a french version of the prensentation of this Project.
