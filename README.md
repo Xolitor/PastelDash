@@ -20,5 +20,5 @@ Les images ont été prises en jeu, comme vous pouvez le voir nous avons misé s
 ![image](https://user-images.githubusercontent.com/106030110/172676775-36a5bd4a-5936-4009-8fdd-c34082d91c32.png) ![image](https://user-images.githubusercontent.com/106030110/172676798-1c5ed1c9-ec82-4686-b8d7-b7b8daeeb1de.png)
 
 
-Au total on a travaillé un peu moins de deux mois ensemble sur ce projet à travers des réunions physiques et numériques. C'était une belle expérience, la prochaine étape serait de commercialiser le prochain projet.
+Au total on a travaillé un peu moins de deux mois ensemble sur ce projet à travers des réunions physiques et numériques. C'était une belle expérience, la prochaine étape serait de commercialiser nos projets futurs.
 
